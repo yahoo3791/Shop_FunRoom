@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkroom"]=self["webpackChunkroom"]||[]).push([[443],{2130:function(n,r,u){u.r(r),u.d(r,{default:function(){return f}});var e=u(3396);function o(n,r,u,o,t,a){const c=(0,e.up)("navbar"),s=(0,e.up)("router-view");return(0,e.wg)(),(0,e.iD)(e.HY,null,[(0,e.Wm)(c),(0,e.Wm)(s)],64)}var t=u(2828),a={components:{navbar:t.Z}},c=u(89);const s=(0,c.Z)(a,[["render",o]]);var f=s}}]);
+//# sourceMappingURL=about.eaa587dc.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkroom"]=self["webpackChunkroom"]||[]).push([[38],{2038:function(r,n,e){e.r(n),e.d(n,{default:function(){return a}});var u=e(3396);function t(r,n){const e=(0,u.up)("router-view");return(0,u.wg)(),(0,u.j4)(e)}var o=e(89);const c={},s=(0,o.Z)(c,[["render",t]]);var a=s}}]);
+//# sourceMappingURL=38.376bbad2.js.map
